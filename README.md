@@ -31,11 +31,8 @@
   </p>
 
 </div>
-
-<div align="up">
 <blockquote>
   now Brazilian dev<br>
   Ex FPS pro player<br>
   Hyperfocused
 </blockquote>
-</div>
