@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td valign="top" width="35%">
-      <img src="LINK_DA_SUA_FOTO_OU_PIXEL_ART" alt="Profile Art" width="100%">
+    <td valign="top" width="30%">
+      <img src="https://i.imgur.com/8mY8gPh.png" alt="Profile Pixel Art" width="100%">
     </td>
 
-    <td valign="top" width="65%">
+    <td valign="top" width="70%">
       
       <blockquote>
         Driven by challenges and a constant quest for growth, my journey truly began when I decided to leave Gurupi, Tocantins, and head to São Paulo. At that pivotal moment, I sold my motorcycle to invest in my primary tools for work and study: a high-performance computer and tuition for a Computer Science degree.
