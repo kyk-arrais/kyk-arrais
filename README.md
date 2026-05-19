@@ -1,6 +1,3 @@
-Software Engineer always seeking opportunities
-to make life easier for everyone.
-
 <div align="right">
 
   <p>
