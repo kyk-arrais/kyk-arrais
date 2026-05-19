@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /> &nbsp;
@@ -32,8 +32,10 @@
 
 </div>
 
+<div align="up">
 <blockquote>
   now Brazilian dev<br>
   Ex FPS pro player<br>
   Hyperfocused
 </blockquote>
+</div>
