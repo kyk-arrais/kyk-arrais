@@ -1,4 +1,7 @@
-<div align="left">
+Software Engineer always seeking opportunities
+to make life easier for everyone.
+
+<div align="right">
 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /> &nbsp;
