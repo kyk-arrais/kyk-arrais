@@ -33,13 +33,7 @@
 </div>
 
 <blockquote>
-  now Brazilian dev
-</blockquote>
-
-<blockquote>
-  Ex FPS pro player
-</blockquote>
-
-<blockquote>
+  now Brazilian dev<br>
+  Ex FPS pro player<br>
   Hyperfocused
 </blockquote>
