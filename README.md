@@ -37,7 +37,7 @@
       <img src="https://skillicons.dev/icons?i=unity" height="55" alt="Unity" />
       <br/><br/>
       <!-- Caixa de texto inferior -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=600&lines=Used+to+be+Pro+Player+in+FPS+games.;Jujutsu-Kaisen+changed+my+life." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=600&lines=Used+to+play+as+Pro+in+FPS+games.;Jujutsu-Kaisen+changed+my+life." alt="Typing SVG" />
     </td>
   </tr>
 </table>
