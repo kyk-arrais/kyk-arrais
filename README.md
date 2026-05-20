@@ -1,5 +1,5 @@
 <table><tr><td valign="top" width="250">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZwbjBtajVhbTR2MWxwMGlzZWc1eHoyZzhvMGMxa2kwMTFoZ21mbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtK26h4kujo9kDRRqj/giphy.gif" alt="Pixel Art" width="200">
+<img src="https://tenor.com/pt-BR/view/weirdcore-gif-368832002940819166" alt="Pixel Art" width="200">
 </td><td valign="top" width="600">
 
 <blockquote>
