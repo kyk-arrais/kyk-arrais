@@ -30,13 +30,9 @@
       <img src="https://skillicons.dev/icons?i=sqlite" height="65" alt="SQLite" />
       <img src="https://skillicons.dev/icons?i=lua" height="65" alt="Lua" />
       <img src="https://skillicons.dev/icons?i=react" height="65" alt="React" />
-      <br/>
-      <!-- Ícones de linguagens - linha 3 -->
-      <div align="right">
       <img src="https://skillicons.dev/icons?i=arduino" height="65" alt="Arduino" />
       <img src="https://skillicons.dev/icons?i=docker" height="65" alt="Docker" />
       <img src="https://skillicons.dev/icons?i=unity" height="65" alt="Unity" />
-      </div>
       <br/><br/>
       <!-- Caixa de texto inferior -->
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=600&lines=Used+to+play+as+Pro+in+FPS+games.;Jujutsu-Kaisen+changed+my+life." alt="Typing SVG" />
