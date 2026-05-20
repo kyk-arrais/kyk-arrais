@@ -1,43 +1,51 @@
-<table><tr><td valign="top" width="250">
-<img src="https://media.tenor.com/BR5awKUVVt4AAAAj/weirdcore.gif" width="200">
-</td><td valign="top" width="600">
+<div align="center">
 
-<blockquote>
-  now Brazilian dev<br>
-  Ex FPS pro player<br>
-  Hyperfocused
-</blockquote>
+<!--GIF ESQUERDA + COLUNA DIREITA-->
+<table>
+  <tr>
+    <!-- GIF da esquerda (tall) -->
+    <td valign="top" width="160">
+      <img src="https://media.tenor.com/BR5awKUVVt4AAAAj/weirdcore.gif" width="150" />
+    </td>
+    <!-- Coluna direita: texto + gif banner + ícones -->
+    <td valign="top">
+      <!-- Caixa de texto superior -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=Software+Engineer+always+seeking;opportunities+to+make+life+easier." alt="Typing SVG" />
+      <br/><br/>
+      <!-- GIF banner (wide) -->
+      <img src="https://media1.tenor.com/m/s0o4JAriM44AAAAC/%E4%B8%83%E6%B5%B7-%E7%BE%8E%E3%81%97%E3%81%84%E5%A4%AA%E9%99%BD-%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2.gif" width="500" />
+      <br/><br/>
+      <!-- Ícones de linguagens - linha 1 -->
+      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
+      <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
+      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
+      <br/>
+      <!-- Ícones de linguagens - linha 2 -->
+      <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
+      <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" />
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+      <br/>
+      <!-- Ícones de linguagens - linha 3 -->
+      <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" />
+      <br/><br/>
+      <!-- Caixa de texto inferior -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=Brazilian;Performance+seeker;Used+to+compete+in+games;Obsessed+with+y2k+japanese+art+style." alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
-<br>
-
-<div align="left">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  </p>
 </div>
-
-</td></tr></table>
