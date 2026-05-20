@@ -39,7 +39,7 @@
       <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" />
       <br/><br/>
       <!-- Caixa de texto inferior -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=A detailer+Brazilian+Software Engineer;Used+to+be+pro+player+at+FPS+games." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=A+detailer+Brazilian+Software+Engineer;Used+to+be+pro+player+at+FPS+games." alt="Typing SVG" />
     </td>
   </tr>
 </table>
