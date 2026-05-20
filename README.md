@@ -3,14 +3,10 @@
 <!--GIF ESQUERDA + COLUNA DIREITA-->
 <table>
   <tr>
-    <!-- GIF da esquerda (tall) -->
-    <td valign="top" width="160">
-      <img src="https://media.tenor.com/BR5awKUVVt4AAAAj/weirdcore.gif" width="150" />
-    </td>
     <!-- Coluna direita: texto + gif banner + ícones -->
     <td valign="top">
       <!-- Caixa de texto superior -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=Software+Engineer+always+seeking;opportunities+to+make+life+easier." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=435&lines=Software+Engineer+writing+clean;code+to+solve+real-world+problems." alt="Typing SVG" />
       <br/><br/>
       <!-- GIF banner (wide) -->
       <img src="https://media1.tenor.com/m/s0o4JAriM44AAAAC/%E4%B8%83%E6%B5%B7-%E7%BE%8E%E3%81%97%E3%81%84%E5%A4%AA%E9%99%BD-%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2.gif" width="500" />
