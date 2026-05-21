@@ -20,7 +20,7 @@
       <img src="https://skillicons.dev/icons?i=py" height="65" alt="Python" />
       <br/><br/>
       <!-- Caixa de texto inferior -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=600&lines=Used+to+play+as+Pro+in+FPS+games.;Jujutsu-Kaisen+changed+my+life." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888888&width=600&lines=Used+to+play+as+Pro+in+FPS+games.;Coding+and+GYM+purify+my+soul." alt="Typing SVG" />
     </td>
   </tr>
 </table>
