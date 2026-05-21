@@ -27,7 +27,7 @@
 
 <!-- GitHub Stats -->
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kyk-arrais&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=aaaaaa&icon_color=aaaaaa&text_color=8b949e&hide_border=false&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyk-arrais&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=aaaaaa&text_color=8b949e&hide_border=false" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyk&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=aaaaaa&text_color=8b949e&hide_border=false" />
 
 <br/>
 
@@ -42,11 +42,11 @@
 <br/>
 
 <!-- Contact -->
-<a href="https://www.linkedin.com/in/kyk-arrais" target="_blank">
+<a href="https://www.linkedin.com/in/kayke-arrais" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=aaaaaa&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="mailto:kyk-arrais@email.com" target="_blank">
+<a href="mailto:kayke.arrais@email.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=aaaaaa&labelColor=0d1117" />
 </a>
 
